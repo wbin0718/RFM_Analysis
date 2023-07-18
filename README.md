@@ -34,3 +34,7 @@
 * 아래 표를 살펴보면 1등급의 고객이 전체 매출의 80%를 책임지는 결과가 도출됨.
 ![image](https://github.com/wbin0718/RFM_Analysis/assets/104637982/10d5168b-1098-4dc6-9ee0-0a13a6dfef4f)
 * 파레토 법칙이 맞는건가?
+
+## Recency, Frequency, Monetary를 고려한 고객 분류 태블로 대시보드
+
+![image](https://github.com/wbin0718/RFM_Analysis/assets/104637982/ded916c6-0786-4c5c-96d6-d03b26626c68)
